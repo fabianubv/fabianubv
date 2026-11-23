@@ -4,7 +4,7 @@ Estudiante de ingeniería informática y ciberseguridad.
 
 ### Herramientas interactivas de estudio
 
-Una serie de herramientas para ver cómo funciona un tema, verlo fallar y entender por qué. Funcionan en el navegador, sin instalar nada.
+Herramientas para practicar ciberseguridad: desarmar un detector de phishing, calcular un riesgo, recorrer un mapa del área. Funcionan en el navegador, sin instalar nada.
 
 | | Qué enseña | |
 |---|---|---|
